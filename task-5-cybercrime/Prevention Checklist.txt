@@ -1,1 +1,19 @@
+ Prevention Checklist
 
+## 🔒 General Safety Tips
+- Never share your OTP, passwords, or UPI PIN with anyone
+- Always verify unknown calls or messages before responding
+- Avoid clicking on suspicious links or downloading unknown apps
+- Use strong and unique passwords for all accounts
+- Enable two-factor authentication wherever possible
+- Regularly update your apps and devices for security
+
+## 💳 UPI & Financial Safety
+- Never approve a payment request unless you are sure you are paying
+- Remember: Receiving money does NOT require entering a UPI PIN
+- Double-check QR codes before scanning
+- Use only official and trusted payment apps
+
+## 🚨 Reporting Cybercrime
+- Report incidents at: https://www.cybercrime.gov.in
+- Call Cyber Crime Helpline: 1930 (24x7)
